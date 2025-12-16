@@ -2,9 +2,6 @@
 
 Welcome to my **Python ATM Simulator** — a small but powerful console-based project built using **Object-Oriented Programming (OOP)** in Python.
 
-⚡ **Aura Level: +++** ⚡  
-Simple. Clean. Fun.
-
 ---
 
 ## 🌟 About This Project
